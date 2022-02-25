@@ -1,0 +1,56 @@
+.container {
+    background-color: aliceblue;
+    width: 850px;
+    margin: 0% auto;
+    padding-top: 2px;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    color: midnightblue;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.contentBlue {
+    background-color: skyblue;
+    width: 800px;
+    height: auto;
+    display: flex;
+    margin: 20px 25px;
+    justify-content: center;
+}
+
+.contentPink {
+    background-color: pink;
+    width: 800px;
+    height: auto;
+    display: flex;
+    margin: 20px 25px;
+    justify-content: center;
+}
+
+.contentWhite {
+    background-color: antiquewhite;
+    width: 800px;
+    height: auto;
+    display: flex;
+    margin: 20px 25px;
+    justify-content: center;
+}
+
+.catPics {
+    width: 200px;
+    height: auto;
+    margin: 20px;
+}
+
+p {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: underline;
+}
